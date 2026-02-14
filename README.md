@@ -53,4 +53,4 @@ npm run dev
 *The frontend will start running at `http://localhost:5173`. Open this link in your browser to start!*
 
 ---
-*Created with ❤️ by the AI Blueprint Team*
+*Created with ❤️ by Sonal Keserwani*
